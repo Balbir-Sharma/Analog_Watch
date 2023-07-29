@@ -1,0 +1,36 @@
+Calculation of the formula for hour, minute and second
+
+For 1 rotation, 12 hours are needed. Therefore 12hrs = 360 degree
+                     12 = 360 
+                     1 hr = 30 degree
+Now we have to add extra hour-hand that are did through minute-hand. So, 
+1hour = 60 minute
+60 minute =30degree
+1 degree  = 30/60 => 1/2
+So, finally add       1 minute =m/2
+
+Now we have to add extra hour-hand that are did through second-hand.But we are adding this because it is neglible.
+
+
+Total hour-hand (h-hour) = (30h + m/2)
+
+
+
+
+
+
+
+
+For 1 rotation, 60 minute are needed. Therefore 60 minute = 360 degree
+                     60 = 360 
+                     1 minute = 6 degree
+
+
+
+
+
+
+
+                     For 1 rotation, 60 second are needed. Therefore 60 second = 360 degree
+                     60 = 360 
+                     1 second = 6 degree
